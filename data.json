@@ -2,6 +2,15 @@
  "people": [],
  "rate": 0,
  "disp": "SYP",
- "products": [],
+ "products": [
+  {
+   "id": "jxjcs9zf9pmw7fy6t8",
+   "n": "وصلة USB في ماكس V MAX تایب سي TYPE-C فاست",
+   "c": 1,
+   "s": 1.5,
+   "cur": "USD",
+   "img": ""
+  }
+ ],
  "moves": []
 }
