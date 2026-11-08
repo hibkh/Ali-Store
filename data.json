@@ -16,5 +16,16 @@
    "img": ""
   }
  ],
- "moves": []
+ "moves": [
+  {
+   "id": "7e79c48qwidmw7g5q19",
+   "t": "in",
+   "d": "2026-11-08",
+   "pid": "jxjcs9zf9pmw7fy6t8",
+   "q": 20,
+   "u": 1,
+   "p": "انا",
+   "cur": "USD"
+  }
+ ]
 }
