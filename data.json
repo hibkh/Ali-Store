@@ -117,6 +117,15 @@
    "c": 1.5,
    "s": 0,
    "cur": "USD"
+  },
+  {
+   "id": "d2fhjnx3cccmwiuhw23",
+   "n": "هولدر سيارة vmax 360°",
+   "c": 1.5,
+   "s": 0,
+   "cur": "USD",
+   "img": "images/d2fhjnx3cccmwiuhw23.jpg",
+   "iv": 1794808259221
   }
  ],
  "moves": []
