@@ -8,6 +8,15 @@
  "disp": "SYP",
  "products": [
   {
+   "id": "jxjcs9zf9pmw7fy6t8",
+   "n": "وصلة USB في ماكس V MAX تایب سي TYPE-C فاست",
+   "c": 1,
+   "s": 1.5,
+   "cur": "USD",
+   "img": "images/jxjcs9zf9pmw7fy6t8.jpg",
+   "iv": 1794207511756
+  },
+  {
    "id": "l8xpa7cr4cmwitiifn",
    "n": "هولدر/حامل موبايل Green lion",
    "c": 1.5,
@@ -26,32 +35,25 @@
    "iv": 1794806749086
   },
   {
-   "id": "y94aw58crimwitourq",
-   "n": "وصلة USB في ماكس V MAX   ٢ ب ١  typec/iphone t",
-   "c": 1.5,
+   "id": "efl773zxzgjmwitt7ru",
+   "n": "سماعات vamx بلوتوث 5.3",
+   "c": 5,
    "s": 0,
    "cur": "USD",
-   "img": "images/y94aw58crimwitourq.jpg",
-   "iv": 1794806904527
-  },
-  {
-   "id": "3ymyws0fm8imwitq4zd",
-   "n": "وصلة USB في ماكس V MAX تایب سي TYPE-C فاست",
-   "c": 1.5,
-   "s": 0,
-   "cur": "USD",
-   "img": "images/3ymyws0fm8imwitq4zd.jpg",
-   "iv": 1794806964414
-  },
-  {
-   "id": "7jk745zezehmwitruch",
-   "n": "بوربانك ماك سيف",
-   "c": 20,
-   "s": 0,
-   "cur": "USD",
-   "img": "images/7jk745zezehmwitruch.jpg",
-   "iv": 1794807043941
+   "img": "images/efl773zxzgjmwitt7ru.jpg",
+   "iv": 1794807108009
   }
  ],
- "moves": []
+ "moves": [
+  {
+   "id": "7e79c48qwidmw7g5q19",
+   "t": "in",
+   "d": "2026-11-08",
+   "pid": "jxjcs9zf9pmw7fy6t8",
+   "q": 20,
+   "u": 1,
+   "p": "انا",
+   "cur": "USD"
+  }
+ ]
 }
