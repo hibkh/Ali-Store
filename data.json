@@ -19,7 +19,7 @@
   {
    "id": "l8xpa7cr4cmwitiifn",
    "n": "هولدر/حامل موبايل Green lion",
-   "c": 1.5,
+   "c": 3,
    "s": 0,
    "cur": "USD",
    "img": "images/l8xpa7cr4cmwitiifn.jpg",
@@ -245,6 +245,17 @@
    "pid": "rv4bktdsz9mwitx6fh",
    "q": 1,
    "u": 8,
+   "p": "",
+   "cur": "USD",
+   "fp": ""
+  },
+  {
+   "id": "n16qh7zazsomwl1yoqc",
+   "t": "in",
+   "d": "2026-11-17",
+   "pid": "l8xpa7cr4cmwitiifn",
+   "q": 2,
+   "u": 3,
    "p": "",
    "cur": "USD",
    "fp": ""
