@@ -208,7 +208,7 @@
   {
    "id": "i8erjfdhiyqmwl0y8u6",
    "n": "راسية شاحن شاومي 33w",
-   "c": 1,
+   "c": 3,
    "s": 0,
    "cur": "USD",
    "img": "images/i8erjfdhiyqmwl0y8u6.jpg",
@@ -223,6 +223,17 @@
    "pid": "7ndd67qy8shmwiu89l7",
    "q": 5,
    "u": 1.5,
+   "p": "",
+   "cur": "USD",
+   "fp": ""
+  },
+  {
+   "id": "ih14qet47gmwl1soib",
+   "t": "in",
+   "d": "2026-11-17",
+   "pid": "i8erjfdhiyqmwl0y8u6",
+   "q": 1,
+   "u": 3,
    "p": "",
    "cur": "USD",
    "fp": ""
