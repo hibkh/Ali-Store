@@ -55,7 +55,7 @@
   {
    "id": "rv4bktdsz9mwitx6fh",
    "n": "راسية شاحن شاومي 67w",
-   "c": 9,
+   "c": 8,
    "s": 0,
    "cur": "USD",
    "img": "images/rv4bktdsz9mwitx6fh.jpg",
@@ -234,6 +234,17 @@
    "pid": "i8erjfdhiyqmwl0y8u6",
    "q": 1,
    "u": 3,
+   "p": "",
+   "cur": "USD",
+   "fp": ""
+  },
+  {
+   "id": "00sn7sf4vkp9mwl1sy5x",
+   "t": "in",
+   "d": "2026-11-17",
+   "pid": "rv4bktdsz9mwitx6fh",
+   "q": 1,
+   "u": 8,
    "p": "",
    "cur": "USD",
    "fp": ""
